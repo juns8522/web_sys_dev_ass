@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="users.xsd">
+ <user>
+  <email>juns@gmail.com</email>
+  <password>1111</password>
+  <name>Jun Lee</name>
+  <description>First User</description>
+  <friends>
+  	<fEmail>ryan@gmail.com</fEmail>
+  </friends>
+  <request>
+    <rEmail>park@gmail.com</rEmail>
+  </request>
+ </user>
+ <user>
+  <email>ryan@gmail.com</email>
+  <password>1111</password>
+  <name>Ryan Heise</name>
+  <description>Second User</description>
+  <friends>
+  	<fEmail>juns@gmail.com</fEmail>
+  </friends>
+  <request>
+    <rEmail>park@gmail.com</rEmail>
+  </request>
+ </user>
+</users>
