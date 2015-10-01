@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blogs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="blogs.xsd">
+ <blog id="1">
+  <email>juns@gmail.com</email>
+  <date>13/09/2013</date>
+  <title>first</title>
+  <body>hi.</body>
+ </blog>
+ <blog id="2">
+  <email>ryan@gmail.com</email>
+  <date>13/09/2013</date>
+  <title>first</title>
+  <body>hi. Jun</body>
+ </blog>
+ <blog id="3">
+  <email>juns@gmail.com</email>
+  <date>15/09/2013</date>
+  <title>second</title>
+  <body>hi. Ryan</body>
+ </blog>
+ <blog id="4">
+  <email>ryan@gmail.com</email>
+  <date>20/09/2013</date>
+  <title>second</title>
+  <body>The second article by Ryan</body>
+ </blog>
+ <blog id="5">
+  <email>juns@gmail.com</email>
+  <date>30/09/2013</date>
+  <title>Third</title>
+  <body>This is my second article</body>
+ </blog>
+ <blog id="6">
+  <email>juns@gmail.com</email>
+  <date>15/10/2013</date>
+  <title>Forth</title>
+  <body>Bye Ryan</body>
+ </blog>
+ <blog id="7">
+  <email>ryan@gmail.com</email>
+  <date>16/10/2013</date>
+  <title>third</title>
+  <body>bye. Jun</body>
+ </blog>
+</blogs>
